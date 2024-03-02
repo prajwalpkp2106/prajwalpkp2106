@@ -6,7 +6,7 @@
    # Hi 👋, I'm Prajwal Padole.
   
   <!--- ##### Coder on top ##### --->
-  <img src="assets/images/coder_profile_pic_2.jpg" width="150" />
+  <!---  <img src="assets/images/coder_profile_pic_2.jpg" width="150" />--->
   
   <!--- ##### Social Handles ##### --->
   <p align="center">
