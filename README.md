@@ -3,26 +3,23 @@
   <!--- ##### Banner on top ##### --->
   <img alt="banner" src="assets/readme banner.png" width="100%"/>
   
-   # Hi 👋, I'm Ninad More.
+   # Hi 👋, I'm Prajwal Padole.
   
   <!--- ##### Coder on top ##### --->
   <img src="assets/images/coder_profile_pic_2.jpg" width="150" />
   
   <!--- ##### Social Handles ##### --->
   <p align="center">
-    <a href="https://www.linkedin.com/in/ninad-more-65a942231/">
+    <a href="https://www.linkedin.com/in/prajwal-padole-213058256/">
       <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
     </a>
-    <a href="https://instagram.com/__ninad._18?igshid=OGQ5ZDc2ODk2ZA==">
+    <a href="https://www.instagram.com/prajwal_p_21/">
       <img alt="instagram" src="assets/svg/instagram.svg"/>
     </a>
-    <a href="https://leetcode.com/Kaneki183/">
+<!--     <a href="https://leetcode.com/Kaneki183/">
       <img alt="leetcode" src="assets/svg/leetcode.svg"/>
-    </a>
+    </a> -->
   </p>
-
-  <!--- ##### Profile View Counter ##### --->
-  <img src="https://komarev.com/ghpvc/?username=ninad-moree&style=flat-square&color=blue" alt=""/>
 </div>
 
 
@@ -37,19 +34,17 @@
 <!--- ##### ABOUT ME SECTION ##### --->
 ### 👨‍💻 About Me :
 
-I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
-- 🔭 I’m a Computer Engineering student at PICT and contributing to frontend and backend for building android apps.
-- 📱 I'am a fullstack flutter app developer
-- 👨‍💻 Here is a list of my different projects: <a href="https://github.com/ninad-moree?tab=repositories">MyProjects</a >
+- 🔭 I’m a Computer Engineering student at PICT and contributing to frontend for building android apps and backend for building websites.
+- 📱 I'am a flutter app developer
+- 👨‍💻 Here is a list of my different projects: <a href="https://github.com/prajwalpkp2106?tab=repositories">MyProjects</a >
 - 🌱 Exploring Web Development and AI/ML.
-- ⚡ In my free time, I like to solve problems on Leetcode, Codechef and watch animes.
-- 🏏 I'm really into cricket and love playing it!
-- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:ninadyogeshmore@gmail.com)
+- 🏏 I'm really into Badminton and love playing it!
+- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:padoleprajwal2106@gmail.com)
 
 ---
 
 <!--- ##### PROJECTS SECTION ##### --->
-### 🚀 Projects :
+<!---### 🚀 Projects :
 
 - 👨🏻‍💻 <a href="https://github.com/ninad-moree/MyPortfolio/tree/main/Portfolio-master">My Portfolio</a> - Here is my Portfolio.
 - 📚 <a href="https://github.com/ninad-moree/KodeKraken">Kodekraken</a> - Flutter app for students to submit there code with versioning and a code editor to write the code.
@@ -63,7 +58,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 - 👨🏻‍💻 <a href="https://github.com/ninad-moree/Portfolio">Portfolio</a> - A simple portfolio website designed using reactjs.
 - 🛍️ <a href="https://github.com/ninad-moree/E-Commerce">E-Comm</a> - A full-stack flutter e-commerce app using firebase, with google sign in and getx state management. 
 
----
+--->
 
 <!--- ##### LANGUAGES SECTION ##### --->
 ### 🖥️ IDE and Tools :
@@ -78,10 +73,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="assets/Pycharm_Icon.png" title="Pycharm" alt="Pycharm" width="40" height="40"/><br/>
       Pycharm
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/><br/>
       Anaconda
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" title="JupyterNotebook" alt="JupyterNotebook" width="40" height="40"/><br/>
       Jupyter
@@ -108,10 +103,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alt="Dart" width="40" height="40"/><br/>
       Dart
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/><br/>
       Firebase
-    </td>
+    </td> -->
     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/><br/>
       CSS3
@@ -160,10 +155,10 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/><br/>
       Python
     </td>
-    <td align="center">
+<!--     <td align="center">
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/><br/>
       Java
-    </td>
+    </td> -->
   </tr>
 </table>
 
@@ -172,9 +167,9 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 <!--- ##### STATS SECTION ##### --->
 ### 🔥 My Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ninad-moree&theme=gruvbox)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=prajwalpkp2106&theme=gruvbox)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ninad-moree&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajwalpkp2106&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -182,7 +177,7 @@ I am a Full Stack App Developer <img src="https://media.giphy.com/media/WUlplcMp
 ### 📈 Activity Graph :
 
 <a href="">
-  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=ninad-moree&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
+  <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=prajwalpkp2106&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
 
 
