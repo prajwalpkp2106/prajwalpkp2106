@@ -26,7 +26,7 @@
 <!--- ##### GIF SECTION ##### --->
 <!-- Big Coding Gif -->
 <div align="center">
-  <img src="assets/gifs/Designer.gif" width="750" height="500"/>
+  <img src="assets/gifs/Job opening.gif" width="750" height="500"/>
 </div>
 
 ---
