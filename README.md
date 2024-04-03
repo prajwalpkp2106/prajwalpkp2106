@@ -39,7 +39,7 @@
 - 👨‍💻 Here is a list of my different projects: <a href="https://github.com/prajwalpkp2106?tab=repositories">MyProjects</a >
 - 🌱 Exploring Web Development and AI/ML.
 - 🏏 I'm really into Badminton and love playing it!
-- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-ninad-red?style=flat&logo=Gmail&logoColor=white)](mailto:padoleprajwal2106@gmail.com)
+- 📬 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Prajwal-red?style=flat&logo=Gmail&logoColor=white)](mailto:padoleprajwal2106@gmail.com)
 
 ---
 
