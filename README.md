@@ -180,7 +180,8 @@
   <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=prajwalpkp2106&bg_color=282828&color=ebdbb2&line=fe8019&point=fb4934&hide_border=true" />
 </a>
 
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=prajwalpkp2106&theme=juicyfresh)
 <!-- SOME USEFUL TOOLS AND IMAGES FOR README-->
 
 <!-- 
