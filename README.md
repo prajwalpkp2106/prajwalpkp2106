@@ -9,7 +9,8 @@
   <!---  <img src="assets/images/coder_profile_pic_2.jpg" width="150" />--->
   
   <!--- ##### Social Handles ##### --->
-  <h1>Check my Portfolio -</h1> [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)]([https://bit.ly/prajwalpadole](https://portfolio-prajwalpkp2106s-projects.vercel.app/))
+  <h1>Check my Portfolio -</h1> 
+  [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)]([https://bit.ly/prajwalpadole](https://portfolio-prajwalpkp2106s-projects.vercel.app/))
   <p align="center">
     <a href="https://www.linkedin.com/in/prajwal-padole-213058256/">
       <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
