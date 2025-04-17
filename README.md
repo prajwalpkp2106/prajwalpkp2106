@@ -10,6 +10,7 @@
   
   <!--- ##### Social Handles ##### --->
   <p align="center">
+    [![Website](https://img.shields.io/badge/%20%F0%9F%8F%A1%20website-0072ff.svg?longCache=true&style=for-the-badge)](https://bit.ly/prajwalpadole)
     <a href="https://www.linkedin.com/in/prajwal-padole-213058256/">
       <img alt="linkedIn" src="assets/svg/linkedin.svg"/>
     </a>
