@@ -36,7 +36,7 @@
 ### 👨‍💻 About Me :
 
 - 🔭 I’m a Computer Engineering student at PICT and contributing to frontend for building android apps and backend for building websites.
-- 📱 I'am a flutter app developer
+- 💻 Check my website: <a href="[https://github.com/prajwalpkp2106?tab=repositories](https://portfolio-prajwalpkp2106s-projects.vercel.app/)">MyProjects</a >
 - 👨‍💻 Here is a list of my different projects: <a href="https://github.com/prajwalpkp2106?tab=repositories">MyProjects</a >
 - 🌱 Exploring Web Development and AI/ML.
 - 🏏 I'm really into Badminton and love playing it!
